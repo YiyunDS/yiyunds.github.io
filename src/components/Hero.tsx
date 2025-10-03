@@ -60,8 +60,8 @@ export function Hero() {
           <div className="relative">
             <div className="aspect-square max-w-md mx-auto">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1758598307046-22f11e2a6917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjB3b3Jrc3BhY2UlMjBkZXNrJTIwbGFwdG9wfGVufDF8fHx8MTc1OTUyMDAxNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                alt="Professional workspace"
+                src="/IMG_9906.jpeg"
+                alt="Yiyun Zhou - AI Scientist"
                 className="w-full h-full object-cover rounded-2xl shadow-2xl"
               />
             </div>
