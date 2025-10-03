@@ -17,8 +17,8 @@ export function Header() {
     <header className="fixed top-0 left-0 right-0 bg-background/80 backdrop-blur-sm border-b z-50">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="space-y-0">
-          <h1 className="text-primary">Your Name</h1>
-          <p className="text-muted-foreground text-sm">Full Stack Developer</p>
+          <h1 className="text-primary">Yiyun Zhou</h1>
+          <p className="text-muted-foreground text-sm">AI Scientist</p>
         </div>
 
         {/* Desktop Navigation */}
