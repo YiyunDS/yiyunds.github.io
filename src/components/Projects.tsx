@@ -9,7 +9,7 @@ export function Projects() {
     {
       title: "AI Agent Trading Platform",
       description: "An autonomous trading system powered by LLM agents that analyzes market data, executes trades, and optimizes portfolios in real-time.",
-      image: "https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3ZWIlMjBkZXZlbG9wbWVudCUyMGNvZGluZ3xlbnwxfHx8fDE3NTk0OTY0NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1080",
       technologies: ["Python", "LangChain", "OpenAI", "PostgreSQL"],
       githubUrl: "https://github.com/yiyun-zhou/ai-trading-platform",
       liveUrl: "https://ai-trading-demo.vercel.app",
@@ -18,7 +18,7 @@ export function Projects() {
     {
       title: "AI Exam Platform",
       description: "An intelligent examination system that generates adaptive questions, grades responses using NLP, and provides personalized feedback to students.",
-      image: "https://images.unsplash.com/photo-1678667720699-5c0fc04ac166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBtb2NrdXAlMjBkZXNpZ258ZW58MXx8fHwxNzU5NDg3Mjg2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1080",
       technologies: ["PyTorch", "Transformers", "FastAPI", "React"],
       githubUrl: "https://github.com/yiyun-zhou/ai-exam-platform",
       liveUrl: "https://ai-exam-demo.vercel.app",
@@ -27,7 +27,7 @@ export function Projects() {
     {
       title: "AI Self Tax Assistant",
       description: "An AI-powered tax preparation assistant that guides users through tax filing, identifies deductions, and ensures compliance with tax regulations.",
-      image: "https://images.unsplash.com/photo-1758598307046-22f11e2a6917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjB3b3Jrc3BhY2UlMjBkZXNrJTIwbGFwdG9wfGVufDF8fHx8MTc1OTUyMDAxNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1080",
       technologies: ["GPT-4", "LangChain", "RAG", "MongoDB"],
       githubUrl: "https://github.com/yiyun-zhou/ai-tax-assistant",
       liveUrl: "https://ai-tax-demo.vercel.app",
